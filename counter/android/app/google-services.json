@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797346180867",
+    "firebase_url": "https://counter-jnc.firebaseio.com",
+    "project_id": "counter-jnc",
+    "storage_bucket": "counter-jnc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797346180867:android:46cd1aacff036126",
+        "android_client_info": {
+          "package_name": "com.akaalapps.www.counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797346180867-4aga0jk6ic4lt6bh6hsnr5pslt1p2bi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0xQUbzpmTFDy9-r3FAw7PM1YQQYhCYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797346180867-4aga0jk6ic4lt6bh6hsnr5pslt1p2bi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
